@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Codewars](https://github.r2v.ch/codewars?user=tvntvn13&top_languages=true&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=tvntvn13&top_languages=true&stroke=%23BB432C)
 
 
 
