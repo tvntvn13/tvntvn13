@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### hosted projects
+
+- [**angul-it**](https://captcha-96d84.web.app/home)
+
+- [**angular-tictactoe**](https://angular-ticktack.web.app/)
+
+- [**bomberman**](https://bombman-js.herokuapp.com/)
+
+---
+
 
 ![Codewars](https://github.r2v.ch/codewars?user=tvntvn13&hide_clan=true&top_languages=true&theme=nightowl)
 
