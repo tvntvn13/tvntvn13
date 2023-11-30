@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 
 ![Codewars](https://github.r2v.ch/codewars?user=tvntvn13&hide_clan=true&top_languages=true&theme=nightowl)
 
+[codewars](https://codewars.com/users/tvntvn13)
+
 
 
