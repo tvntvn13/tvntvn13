@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 
 #### hosted projects
 
-- [**angul-it**](https://captcha-96d84.web.app/home)
+- <a href="https://captcha-96d84.web.app/home" target="_blank"> **angul-it**</a>
 
-- [**angular-tictactoe**](https://angular-ticktack.web.app/)
+- <a href="https://angular-ticktack.web.app/" target="_blank">**angular-tictactoe**</a>
 
-- [**bomberman**](https://bombman-js.herokuapp.com/)
+- <a href="https://bombman-js.herokuapp.com/" target="_blank"> **bomberman**</a>
 
 ---
 
-
 ![Codewars](https://github.r2v.ch/codewars?user=tvntvn13&hide_clan=true&top_languages=true&theme=nightowl)
 
-[codewars](https://codewars.com/users/tvntvn13)
-
+<a href="https://codewars.com/users/tvntvn13" target="_blank"> **codewars**</a>
 
 
