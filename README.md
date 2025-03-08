@@ -12,7 +12,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tvntvn13&repo=angular-tictactoe&theme=tokyonight&border_color=333)](https://github.com/tvntvn13/angular-tictactoe)
 
-<a href="https://bombman-js.herokuapp.com/" target="_blank"> **bomberman**</a>
+<a href="https://bombman.tvntvn.me/" target="_blank"> **bomberman**</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tvntvn13&repo=bomberman&theme=tokyonight&border_color=333)](https://github.com/tvntvn13/bomberman)
 
